@@ -1,0 +1,75 @@
+MIT License
+
+Copyright (c) 2025 Mohamed Kamran
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+================================================================================
+ADDITIONAL DISCLAIMER AND LIMITATION OF LIABILITY
+================================================================================
+
+This software is provided as an open-source project for educational and 
+experimental purposes. By using, copying, modifying, or distributing this 
+software, you explicitly acknowledge and agree to the following:
+
+1. NO WARRANTY: The author(s) and contributor(s) make no representations or 
+   warranties of any kind concerning the safety, suitability, reliability, 
+   availability, timeliness, security, or accuracy of this software.
+
+2. NO LIABILITY: Under no circumstances shall the author(s) or contributor(s) 
+   be held liable for any direct, indirect, incidental, special, exemplary, 
+   or consequential damages (including, but not limited to, procurement of 
+   substitute goods or services; loss of use, data, or profits; or business 
+   interruption) however caused and on any theory of liability, whether in 
+   contract, strict liability, or tort (including negligence or otherwise) 
+   arising in any way out of the use of this software, even if advised of 
+   the possibility of such damage.
+
+3. USER RESPONSIBILITY: You are solely responsible for:
+   - Determining the appropriateness of using or redistributing the software
+   - Assuming all risks associated with your exercise of permissions under 
+     this license
+   - Compliance with all applicable laws and regulations
+   - Any user-generated content, interactions, or communications that occur 
+     through the use of this software
+   - Implementing appropriate security, privacy, and content moderation measures
+
+4. NO SUPPORT: The author(s) are under no obligation to provide support, 
+   updates, enhancements, or modifications to this software.
+
+5. THIRD-PARTY CONTENT: The author(s) are not responsible for any third-party 
+   content, services, or websites that may be accessed through or in connection 
+   with this software.
+
+6. SECURITY AND PRIVACY: While efforts have been made to create functional 
+   software, the author(s) make no guarantees about the security or privacy 
+   of communications or data. Users should implement their own security measures 
+   and conduct their own security audits before deploying this software in any 
+   production environment.
+
+7. JURISDICTION: This software is provided as-is and the author(s) disclaim 
+   any responsibility for compliance with laws in your jurisdiction. You are 
+   responsible for ensuring that your use of this software complies with all 
+   applicable local, state, national, and international laws and regulations.
+
+BY USING THIS SOFTWARE, YOU ACKNOWLEDGE THAT YOU HAVE READ THIS LICENSE AND 
+DISCLAIMER, UNDERSTAND IT, AND AGREE TO BE BOUND BY ITS TERMS AND CONDITIONS.
+
+If you do not agree to these terms, do not use, copy, modify, or distribute 
+this software.
